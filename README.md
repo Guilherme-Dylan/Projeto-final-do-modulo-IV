@@ -4,12 +4,14 @@ No módulo atual do meu curso Técnico em T.I., realizamos diversas atividades �
 
 Para construir o site, utilizamos tecnologias como HTML, CSS, JavaScript e também Photoshop para criação e edição de imagens. Além disso, buscamos referências em outros sites até chegarmos ao resultado final. Nossa principal fonte de inspiração foi o Caldeirão Místico, um e-commerce real especializado em artigos esotéricos.
 
-<img width="1360" height="599" alt="image" src="https://github.com/user-attachments/assets/ae7127c1-2647-4b20-850b-3362ce1c2abf" />
+<img width="1898" height="874" alt="image" src="https://github.com/user-attachments/assets/1655f070-3515-42d2-ad18-ae2c034c425a" />
+
 
 Tivemos o prazo de um mês para concluir o projeto, sendo que apenas as aulas de quinta-feira eram dedicadas exclusivamente ao desenvolvimento do site.
 
 Ao final desse processo, chegamos ao resultado apresentado no momento da entrega:
 
-<img width="1350" height="599" alt="image" src="https://github.com/user-attachments/assets/2618f3ed-1b14-4a4d-a32f-b6d3ac294d50" />
+<img width="1896" height="942" alt="image" src="https://github.com/user-attachments/assets/e8c42725-264e-4306-93b7-07b16ae6aa68" />
+
 
 Deixo aqui meus créditos ao site Caldeirão Místico, que serviu como grande inspiração para o desenvolvimento deste projeto.
